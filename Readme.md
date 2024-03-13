@@ -57,6 +57,7 @@ Contributions to this repository are welcome! If you have developed useful DSS s
 
 - [Texas Instruments Debug Server Scripting Documentation](https://software-dl.ti.com/ccs/esd/documents/users_guide/sdto_dss_handbook.html#)
 - [Texas Instruments DSS fundamental workshop](https://software-dl.ti.com/ccs/esd/training/workshop/ccsv9/dss_fundamentals_workshop.html)
+- [DS script API](file:///C:/ti/ccs1220/ccs/ccs_base/scripting/docs/DS_API/index.html)
 - [Code Composer Studio (CCS)](https://www.ti.com/tool/CCSTUDIO)
 
 ## License
